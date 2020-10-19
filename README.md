@@ -1,2 +1,0 @@
-# GEO
-Geometry
